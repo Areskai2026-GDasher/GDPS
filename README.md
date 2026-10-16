@@ -1,2 +1,5 @@
-# Daily-Levels-Button
-I Haven’t tested this but this mod is for the geode mod loader, it can set daily levels and probably more.
+# GDPS’s
+iOS Download is Not Available!
+
+GDPS’s You Can Download on 2 specific platforms, Android & PC.
+Notice: The Files Include Geometry Dash 2.2.
